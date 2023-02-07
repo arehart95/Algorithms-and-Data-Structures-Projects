@@ -15,7 +15,7 @@ int main() {
     cin >> a;
     cin >> b;
 
-    cout << lcm(a, b);
+    cout << euclidgcd(a, b);
 
     return 0;
 }
